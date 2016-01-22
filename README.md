@@ -254,3 +254,7 @@ This library uses code from [GIFLib](http://giflib.sourceforge.net/) 5.1.1 and [
 
 MIT License<br>
 See [LICENSE](LICENSE) file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bulbulhossen/android-gif-drawable/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
